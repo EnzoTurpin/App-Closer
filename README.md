@@ -40,6 +40,10 @@ To change the application that the script closes or the hotkey that triggers the
 - Replace `'notepad.exe'` with the `.exe` name of the application you wish to close.
 - Replace `'f1'` with the desired hotkey you want to use for closing the application.
 
+## Acknowledgments
+
+This script was created using the `psutil` and `keyboard` libraries. Thank you to the developers and contributors of these libraries.
+
 ## Warning
 
 Please use this script responsibly. Closing applications abruptly can result in unsaved work being lost.
@@ -49,10 +53,10 @@ Please use this script responsibly. Closing applications abruptly can result in 
 
 Contributions are welcome. Please open an issue or pull request if you have suggestions or contributions.
 
+## License
+
+This project is open-source. You can redistribute and/or modify it under the terms of your choice.
+
 ## Contact
 
 If you have any questions or feedback, please open an issue in the repository, and I will get back to you.
-
-## Acknowledgments
-
-This script was created using the `psutil` and `keyboard` libraries. Thank you to the developers and contributors of these libraries.
